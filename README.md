@@ -19,9 +19,9 @@ Es una forma disimulada de lograr una distribución del ingreso con las reglas d
 
 La 'misma cantidad de acciones' debe ser la tendencia, ya que en un principio se puede empezar con una distribución completamente centralizada, pero a medida que ingresen nuevos socios tendremos dos opciones: "expropiar" o emitir nuevas acciones.
 
-Las "grandes" inversiones son simplemente por la intención de iniciar un nuevo emprendemiento.
+Las "grandes" inversiones son simplemente por la intención de iniciar un nuevo emprendimiento.
 
-Las ventas de acciones se realizan al valor nonimal, priorizando al socio con menor cantidad. Por regla general el comprador debe tener menos acciones que el vendedor. Si hay definido un máximo de acciones por socio, los compradores podrán comprar hasta alcanzar ese límite.
+Las ventas de acciones se realizan al valor nominal, priorizando al socio con menor cantidad. Por regla general el comprador debe tener menos acciones que el vendedor. Si hay definido un máximo de acciones por socio, los compradores podrán comprar hasta alcanzar ese límite.
 
 ### Ingreso ilimitado
 
