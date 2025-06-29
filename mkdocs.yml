@@ -1,0 +1,4 @@
+site_name: Cooperativismo Abierto
+theme:
+  name: readthedocs
+  locale: es
